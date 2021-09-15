@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shubham212001 ,Shubham Sharma
-- 👀 I’m interested in Mobile App Development and Open Source
-- 🌱 I’m currently learning Android Developement using Kotlin and Android Jetpack Components
+- 👋 Hi, I’m @shubham212001 ,Shubham Sharma ,Sophomore .
+- 👀 I’m Deeply interested in Mobile App Development (Both android and IOS) and Open Source.
+- 🌱 I’m currently learning Android Developement using Kotlin and Android Jetpack Components.
 - 📫 You can reach me at shubham.sharma200121@gmail.com
 
 <!---
